@@ -1,0 +1,3 @@
+ERROR: 1件
+INFO:4件
+WARNING: 0件
