@@ -25,8 +25,6 @@ python log_analyzer.py
 ```
 ## Skills
 
-## Skills
-
 - Python
 - File Handling
 - Text Processing
