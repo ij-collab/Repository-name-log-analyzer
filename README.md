@@ -37,20 +37,14 @@ python log_analyzer.py
 - Export results to CSV
 - Improve error handling
 
-- Python
-- File Handling
-- Text Processing
-- Git
-- GitHub
+
 
 ```bash
 python log_analyzer.py
 
 ## Future Improvements
 
-- Add keyword search
-- Export results to CSV
-- Improve error handling
+
 
 Add Skills and Future Improvements
 
