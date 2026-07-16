@@ -19,6 +19,13 @@ It reads a system log file and counts important log entries.
 - analysis_result.txt
 
 ## How to Run
+## Skills
+
+- Python
+- File Handling
+- Text Processing
+- Git
+- GitHub
 
 ```bash
 python log_analyzer.py
