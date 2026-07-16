@@ -1,4 +1,4 @@
-# Repository-name-log-analyzer
+# Python Log Analyzer
 # Log Analyzer
 
 ## Overview
