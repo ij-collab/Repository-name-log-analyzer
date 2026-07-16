@@ -1,5 +1,5 @@
 # Python Log Analyzer
-# Log Analyzer
+
 
 ## Overview
 This project is a simple log analyzer written in Python.
