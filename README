@@ -8,12 +8,22 @@ Simple ToDo application written in Python.
 
 - Add tasks
 - Show tasks
-- Command line interface
+- Exit application
+
+## Files
+
+- todo.py
+
+## How to Run
+
+```bash
+python todo.py
+```
 
 ## Skills
 
 - Python
-- List
-- Loop
+- Lists
+- Loops
 - Git
 - GitHub
