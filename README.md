@@ -25,6 +25,20 @@ python log_analyzer.py
 ```
 ## Skills
 
+## Skills
+
+- Python
+- File Handling
+- Text Processing
+- Git
+- GitHub
+
+## Future Improvements
+
+- Add keyword search
+- Export results to CSV
+- Improve error handling
+
 - Python
 - File Handling
 - Text Processing
