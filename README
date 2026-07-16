@@ -14,19 +14,6 @@ Simple ToDo application written in Python.
 
 - todo.py
 
-## How to Run
-
-```text
-python todo.py
-
-
 ```bash
-
-
-## Skills
-
-- Python
-- Lists
-- Loops
-- Git
-- GitHub
+python todo.py
+```
