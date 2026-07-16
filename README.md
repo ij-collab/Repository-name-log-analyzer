@@ -53,3 +53,5 @@ python log_analyzer.py
 - Improve error handling
 
 Add Skills and Future Improvements
+
+Fix README formatting
