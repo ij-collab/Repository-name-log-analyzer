@@ -1,0 +1,28 @@
+tasks = []
+
+while True:
+    print("\n=== ToDo App ===")
+    print("1. Add Task")
+    print("2. Show Tasks")
+    print("3. Exit")
+
+    choice = input("Select: ")
+
+    if choice == "1":
+        task = input("Task: ")
+        tasks.append(task)
+        print("Added!")
+
+    elif choice == "2":
+        if not tasks:
+            print("No tasks.")
+        else:
+            for i, task in enumerate(tasks, 1):
+                print(f"{i}. {task}")
+
+    elif choice == "3":
+        print("Goodbye!")
+        break
+
+    else:
+        print("Invalid choice.")
