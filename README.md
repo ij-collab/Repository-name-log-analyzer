@@ -35,3 +35,5 @@ python log_analyzer.py
 - Add keyword search
 - Export results to CSV
 - Improve error handling
+
+Add Skills and Future Improvements
