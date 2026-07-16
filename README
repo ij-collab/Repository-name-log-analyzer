@@ -17,6 +17,8 @@ Simple ToDo application written in Python.
 ## How to Run
 
 ```text
+python todo.py
+
 
 ```bash
 
