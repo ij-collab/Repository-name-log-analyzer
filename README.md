@@ -42,10 +42,4 @@ python log_analyzer.py
 ```bash
 python log_analyzer.py
 
-## Future Improvements
-
-
-
-Add Skills and Future Improvements
-
-Fix README formatting
+Future Improvements
