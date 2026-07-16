@@ -29,3 +29,9 @@ It reads a system log file and counts important log entries.
 
 ```bash
 python log_analyzer.py
+
+## Future Improvements
+
+- Add keyword search
+- Export results to CSV
+- Improve error handling
