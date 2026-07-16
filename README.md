@@ -37,9 +37,3 @@ python log_analyzer.py
 - Export results to CSV
 - Improve error handling
 
-
-
-```bash
-python log_analyzer.py
-
-Future Improvements
