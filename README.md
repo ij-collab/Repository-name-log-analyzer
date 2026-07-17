@@ -1,40 +1,36 @@
-# Python Log Analyzer
+# Python Password Generator
 
 ## Overview
-This project is a simple log analyzer written in Python.
 
-It reads a system log file and counts important log entries.
+A simple password generator written in Python.
+
+It generates a random password using letters, numbers, and symbols.
 
 ## Features
 
-- Read log files
-- Count log levels
-- Save analysis results
+- Select password length
+- Use letters, numbers, and symbols
+- Validate user input
+- Generate passwords securely
 
 ## Files
 
-- log_analyzer.py
-- system.log
-- analysis_result.txt
+- password_generator.py
 
 ## How to Run
 
 ```bash
-python log_analyzer.py
+python password_generator.py
 ```
+
 ## Skills
 
 - Python
-- File Handling
-- Text Processing
+- Functions
+- Error Handling
+- secrets Module
 - Git
 - GitHub
-
-## Future Improvements
-
-- Add keyword search
-- Export results to CSV
-- Improve error handling
 
 
 
