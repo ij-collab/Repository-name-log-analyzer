@@ -1,11 +1,4 @@
 # Python ToDo App
-```text 
-
-## How to Run
-
-```bash
-
-python todo.py
 
 ## Overview
 
@@ -25,6 +18,8 @@ Simple ToDo application written in Python.
 
 ```bash
 python todo.py
+```
+
 ## Skills
 
 - Python
