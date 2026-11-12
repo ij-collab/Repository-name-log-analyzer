@@ -32,5 +32,23 @@ python password_generator.py
 - Git
 - GitHub
 
+## Log Analyzer
+
+A Python tool for analyzing system logs.
+
+### Features
+- Count ERROR, INFO, and WARNING messages
+- Detect errors in log files
+- Display error and warning details
+- Save analysis results to a text file
+
+### Files
+- log_analyzer.py
+- system.log
+- analysis_result.txt
+
+### How to Run
+python log_analyzer.py
+
 
 
